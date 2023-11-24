@@ -1,0 +1,10 @@
+services:
+  rv-server:
+    build: .
+    restart: on-failure
+    ports:
+      - "8000:8000"
+    volumes:
+      - rv-db:/app/db
+volumes:
+  rv-db:

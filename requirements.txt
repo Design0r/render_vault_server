@@ -1,0 +1,15 @@
+aiosqlite
+annotated-types
+anyio
+click
+databases
+fastapi
+h11
+idna
+pydantic
+pydantic_core
+sniffio
+SQLAlchemy
+starlette
+typing_extensions
+uvicorn

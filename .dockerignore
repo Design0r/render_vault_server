@@ -1,0 +1,7 @@
+.venv
+__pycache__
+*.db
+.DS_Store
+.dockerignore
+docker-compose.yaml
+Dockerfile

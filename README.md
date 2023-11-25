@@ -12,5 +12,3 @@ A Server for the [Render Vault](https://github.com/Design0r/render_vault) Asset 
 1. Make sure you are using Python 3.12 as your first Python Interpreter in your PATH Environment Variable
 2. Run the install.bat file
 3. Run the run.bat file (neccessary on each server reboot)
-
-### Documentation
